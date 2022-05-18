@@ -1,0 +1,33 @@
+[{
+    "lessonid": 1,
+    "namaBab": "Matematika",
+    "kelas": "5 SD",
+    "daftarBab" : [
+        {
+            "nama" : "BAB 1",
+            "deskripsi" : "Pengantar Awal"
+        },
+        {
+            "nama" : "BAB 2",
+            "deskripsi" : "Operasi Bilangan Bulat"
+        },
+        {
+            "nama" : "BAB 3",
+            "deskripsi" : "Pengukuran"
+        },
+        {
+            "nama" : "BAB 4",
+            "deskripsi" : "Bangun Datar"
+        },
+        {
+            "nama" : "BAB 5",
+            "deskripsi" : "Bangun Ruang"
+        },
+        {
+            "nama" : "BAB 6",
+            "deskripsi" : "Pecahan"
+        }
+
+    ]
+  }
+]
