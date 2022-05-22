@@ -1,0 +1,128 @@
+{
+    "Course": {
+      "-N2_FKpsAGo4qFeLWuFl": {
+        "nama": "Matematika",
+        "logo": "https://raw.githubusercontent.com/Azhar275/App-E-Learning/main/image/3047128.jpg",
+        "jumlah_bab" : 6,
+        "daftarBab" : [
+        {
+            "bab" : "BAB 1",
+            "deskripsi" : "Pengantar Awal"
+        },
+        {
+            "bab" : "BAB 2",
+            "deskripsi" : "Operasi Bilangan Bulat"
+        },
+        {
+            "bab" : "BAB 3",
+            "deskripsi" : "Pengukuran"
+        },
+        {
+            "bab" : "BAB 4",
+            "deskripsi" : "Bangun Datar"
+        },
+        {
+            "bab" : "BAB 5",
+            "deskripsi" : "Bangun Ruang"
+        },
+        {
+            "bab" : "BAB 6",
+            "deskripsi" : "Pecahan"
+        }
+        ]
+      },
+      "-N2_FU0OOWTEofhGnYzf": {
+        "nama": "IPA",
+        "logo": "https://raw.githubusercontent.com/Azhar275/App-E-Learning/main/image/3047128.jpg",
+        "jumlah_bab" : 6,
+        "daftarBab" : [
+          {
+            "bab" : "BAB 1",
+            "deskripsi" : "Pengantar Awal"
+        },
+        {
+            "bab" : "BAB 2",
+            "deskripsi" : "Mahluk Hidup"
+        },
+        {
+            "bab" : "BAB 3",
+            "deskripsi" : "Ekosistem dan Lingkungan"
+        },
+        {
+            "bab" : "BAB 4",
+            "deskripsi" : "Kingdom Animalia"
+        },
+        {
+            "bab" : "BAB 5",
+            "deskripsi" : "Kingdom Plantae"
+        },
+        {
+            "bab" : "BAB 6",
+            "deskripsi" : "Organ Tubuh"
+        }
+          ]
+      },
+      "-N2_mQWPbEGlRJaDbcwg": {
+        "nama": "Bahasa Inggris",
+        "logo": "https://raw.githubusercontent.com/Azhar275/App-E-Learning/main/image/3047128.jpg",
+        "jumlah_bab" : 6,
+        "daftarBab" : [
+          {
+            "bab" : "Chapter 1",
+            "deskripsi" : "Introduction"
+        },
+        {
+            "bab" : "Chapter 2",
+            "deskripsi" : "Hi, What's up?"
+        },
+        {
+            "bab" : "Chapter 3",
+            "deskripsi" : "Do you like football?"
+        },
+        {
+            "bab" : "Chapter 4",
+            "deskripsi" : "Did you do it?"
+        },
+        {
+            "bab" : "Chapter 5",
+            "deskripsi" : "Are you going to visit me?"
+        },
+        {
+            "bab" : "Chapter 6",
+            "deskripsi" : "Have you finished yout homework?"
+        }
+          ]
+      },
+      "-N2_mzRGK1Uzh8nB6vhv": {
+        "nama": "Bahasa Indonesia",
+        "logo": "https://raw.githubusercontent.com/Azhar275/App-E-Learning/main/image/3047128.jpg",
+        "jumlah_bab" : 6,
+        "daftarBab" : [
+          {
+            "bab" : "BAB 1",
+            "deskripsi" : "Pengantar Awal"
+        },
+        {
+            "bab" : "BAB 2",
+            "deskripsi" : "Mencari pokok paragraf"
+        },
+        {
+            "bab" : "BAB 3",
+            "deskripsi" : "Mengidentifikasi tema cerita"
+        },
+        {
+            "bab" : "BAB 4",
+            "deskripsi" : "Mengenal berbagai karya sastra"
+        },
+        {
+            "bab" : "BAB 5",
+            "deskripsi" : "Mengenal berbagai jenis paragraf"
+        },
+        {
+            "bab" : "BAB 6",
+            "deskripsi" : "Mengenal cerita rakyat"
+        }
+          ]
+      }
+    }
+  }
